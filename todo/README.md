@@ -5,7 +5,6 @@ A basic todo app build using Django,In this web app, one can create notes like G
 <b>why Django ?</b><br/>
          Django is a high-level Python Web framework based web framework that allows rapid development and clean, pragmatic design. 
 <br/>
-read how to create on <a href="https://www.geeksforgeeks.org/python-todo-webapp-using-django/">geeksforgeeks</a>
 
 
 Dependencies
